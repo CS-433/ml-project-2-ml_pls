@@ -50,8 +50,6 @@ Computes the Davis Bouldin and silhouette scores of a given cluster.
 Functions to determine how the labelling is affected with respect to the initial value the clustering algorithm is launched with.
 
 
-## Model and results:
-
 
 
 
