@@ -18,5 +18,16 @@ The aim of this project is to explore if the heterogeneity of schizophrenia can 
 ## Data set :
 The data set is not available as it contains highly confidential information. The computed results and plots are nonetheless present in the provided Jupyter notebook.
 
+## Needed packages in order to run the code:
+
+To run the code, one needs to download the latest version of Python.
+Moreover, we used the following external libraries:
+- Item 1
+- Item 2
+- Item 3
+
+
 ## Clustering methods: 
+Three clustering methods were used: K-Means with the L1 norm, the Expectation Maximization (EM) algorithm and DBSCAN.
+
 
