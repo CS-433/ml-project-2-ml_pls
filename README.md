@@ -25,6 +25,7 @@ Moreover, the following external libraries are used:
 - NumPy
 - Sklearn
 - SciPy
+- Pandas
 
 ## Clustering methods used: 
 Three clustering methods were used: K-Means with the L1 norm, the Expectation Maximization (EM) algorithm and DBSCAN.
