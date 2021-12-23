@@ -23,7 +23,7 @@ The data set is not available as it contains highly confidential information. Th
 To run the code, one needs to download the latest version of Python.
 Moreover, the following external libraries are used:
 - NumPy
-- sklearn
+- Sklearn
 - SciPy
 
 ## Clustering methods: 
