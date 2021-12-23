@@ -21,13 +21,14 @@ The data set is not available as it contains highly confidential information. Th
 ## Needed packages in order to run the code:
 
 To run the code, one needs to download the latest version of Python.
-Moreover, we used the following external libraries:
-- Item 1
-- Item 2
-- Item 3
-
+Moreover, the following external libraries are used:
+- NumPy
+- sklearn
+- SciPy
 
 ## Clustering methods: 
 Three clustering methods were used: K-Means with the L1 norm, the Expectation Maximization (EM) algorithm and DBSCAN.
+
+
 
 
