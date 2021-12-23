@@ -31,6 +31,8 @@ Three clustering methods were used: K-Means with the L1 norm, the Expectation Ma
 
 ## Methods:
 Our code is separated into 6 different .py files, with a .ipynb file which is the Main of our project and were all of our results can be seen.
+As the data set cannot be shared, the results are not reproducible. Contact us in case you would like to get further informations about some results, we are glad to answer your questions.
+
 We hereby briefly introduce the 6 .py files and explain their utility:
 
 - anova_ttest.py:
@@ -46,7 +48,9 @@ Computes the Davis Bouldin and silhouette scores of a given cluster.
 - Stability_function.py:
 Functions to determine how the labelling is affected with respect to the initial value the clustering algorithm is launched with.
 
-## Model:
+
+## Model and results:
+
 
 
 
