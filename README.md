@@ -35,15 +35,15 @@ We hereby briefly introduce the 6 .py files and explain their utility:
 
 - anova_ttest.py:
 Functions to perform ANOVA and Welch's t-test on our data.
-- Cross_validation.py
+- Cross_validation.py:
 Implements cross-validation as described in the final report (search for the report.pdf file in the repository for further information)
-- data_import.py 
+- data_import.py:
 Data management (RAJOUTE LEANDRE)
-- map_label.py
+- map_label.py:
 Reassigns the label of one cluster with the labels of another one. This method is necessary in order to compare two clusters, as they might be differently labeled depending on the initial value we launched the algorithm with.
-- score.py
+- score.py:
 Computes the Davis Bouldin and silhouette scores of a given cluster.
-- Stability_function.py
+- Stability_function.py:
 Functions to determine how the labelling is affected with respect to the initial value the clustering algorithm is launched with.
 
 ## Model:
