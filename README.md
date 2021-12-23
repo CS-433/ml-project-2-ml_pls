@@ -41,7 +41,7 @@ Functions to perform ANOVA and Welch's t-test on our data.
 - Cross_validation.py:
 Implements cross-validation as described in the final report (search for the report.pdf file in the repository for further information)
 - data_import.py:
-Data management (RAJOUTE LEANDRE)
+Data management : In this .py, we just create a function which download the data with the symptom and the output of the function returns a list with all the symptom and an other list with the name corresponding to each symptom
 - map_label.py:
 Reassigns the label of one cluster with the labels of another one. This method is necessary in order to compare two clusters, as they might be differently labeled depending on the initial value we launched the algorithm with.
 - score.py:
