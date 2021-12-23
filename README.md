@@ -31,7 +31,7 @@ Moreover, the following external libraries are used:
 Three clustering methods were used: K-Means with the L1 norm, the Expectation Maximization (EM) algorithm and DBSCAN.
 
 ## Methods:
-Our code is separated into 6 different .py files, with a .ipynb file which is the Main of our project and were all of our results can be seen.
+Our code is separated into 6 different .py files, with 3 .ipynb files which are consisting of the Main of our project and were all of our results can be seen, DBSCAN and Topological Clustering .
 As the data set cannot be shared, the results are not reproducible. Contact us in case you would like to get further informations about some results, we are glad to answer your questions.
 
 We hereby briefly introduce the 6 .py files and explain their utility:
