@@ -31,7 +31,7 @@ Moreover, the following external libraries are used:
 Three clustering methods were used: K-Means with the L1 norm, the Expectation Maximization (EM) algorithm and DBSCAN.
 
 ## Methods:
-Our code is separated into 6 different .py files, with a .ipynb file which is the Main of our project and were all of our results can be seen.
+Our code is separated into 6 different .py files, with 3 .ipynb files which are consisting of the Main of our project and were all of our results can be seen, DBSCAN and Topological Clustering .
 As the data set cannot be shared, the results are not reproducible. Contact us in case you would like to get further informations about some results, we are glad to answer your questions.
 
 We hereby briefly introduce the 6 .py files and explain their utility:
@@ -41,7 +41,7 @@ Functions to perform ANOVA and Welch's t-test on our data.
 - Cross_validation.py:
 Implements cross-validation as described in the final report (search for the report.pdf file in the repository for further information)
 - data_import.py:
-Data management (RAJOUTE LEANDRE)
+Data management : In this .py, we just create a function which download the data with the symptom and the output of the function returns a list with all the symptom and an other list with the name corresponding to each symptom
 - map_label.py:
 Reassigns the label of one cluster with the labels of another one. This method is necessary in order to compare two clusters, as they might be differently labeled depending on the initial value we launched the algorithm with.
 - score.py:
